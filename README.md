@@ -57,7 +57,7 @@ Install, **Dart**, and **Flutter** extensions.
 
 You need to create main function. Dart will run **only** **main** function.
 
-Always add semicolon `:` after end line **except** **curly brackets**
+Always add semicolon `;` after end line **except** **curly brackets**
 
 ```dart
 void main() {
