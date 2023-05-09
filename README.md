@@ -57,7 +57,7 @@ Install, **Dart**, and **Flutter** extensions.
 
 You need to create main function. Dart will run **only** **main** function.
 
-Always add semicolon `:` after end line **except** **curly brackets**
+Always add semicolon `;` after end line **except** **curly brackets**
 
 ```dart
 void main() {
@@ -379,8 +379,8 @@ for (final value in funcName()) {
 
 ```Dart
 class Pair<A, B> {
-  final A value 1;
-  final B value 2;
+  final A value1;
+  final B value2;
   Pair(this.value1, this.value2);
 }
 ```
