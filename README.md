@@ -379,8 +379,8 @@ for (final value in funcName()) {
 
 ```Dart
 class Pair<A, B> {
-  final A value 1;
-  final B value 2;
+  final A value1;
+  final B value2;
   Pair(this.value1, this.value2);
 }
 ```
